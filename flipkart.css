@@ -1,0 +1,108 @@
+body{
+margin: 0;
+}
+.top1{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.flx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mar{
+margin-left: 130px;
+}
+.ser{
+    height: 24px;
+}
+.mart{
+    margin-left: 18px;
+}
+.hed{
+    display: flex;
+    color: black;
+    padding-top: 5px;
+}
+.hedm{
+    color: black;
+    margin: auto;
+}
+.prd{
+    float: right;
+    height: 500px;
+    width: 800px;
+    
+}
+.rat{
+    height: 15px;
+    width: 20px;
+}
+.gree{
+    background-color: lightgreen;
+    width: 40px;
+}
+.leftop{
+    display: flex;
+    border: 0.5px solid grey;
+    width: 520px;
+}
+.samflex{
+    display: flex;
+}
+.add{
+    background-color: orange;
+    padding: 20px;
+    margin-left: 60px;
+}
+li{
+    border: 1px solid gray;
+    list-style-type: none;
+}
+li:hover{
+    border: 2px solid blue;
+}
+.buy{
+    background-color: orangered;
+    padding: 20px;
+    margin-left: 60px;
+}
+iframe{
+    padding-left: 50%;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    }
+    .sim{
+        width: 80px;
+    }
+#cn{
+        color: grey;
+        height: 250px;
+        padding-top: 20px;
+        border-radius: 80px;
+        font-size: 15px;
+    }
+    footer{
+        background-color: midnightblue;
+    }
+    .sams{
+        padding-left: 40px;
+    }
+    .sams:hover{
+        width: 70px;
+    }
+
+
+
+
+
+
+
